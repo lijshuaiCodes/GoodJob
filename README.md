@@ -1,5 +1,5 @@
 # GoodJob CRM 外贸客户管理软件原型交付
-<img width="1118" height="1524" alt="cc8e0570ef598ec305bf7df5b98840d0" src="https://github.com/user-attachments/assets/7eb404f7-8bee-4c59-84aa-09d6b9335c59" />
+<img width="200" height="300" alt="cc8e0570ef598ec305bf7df5b98840d0" src="https://github.com/user-attachments/assets/7eb404f7-8bee-4c59-84aa-09d6b9335c59" />
 ## WhatsApp 集成
 
 CRM 的 `WhatsApp` 页面加载仓库内的独立服务 `whatsapp-plugin/`。该目录从已验收的
